@@ -1,0 +1,5 @@
+x, y = int(input('Input number 1 - ')), int(input('Input number 2 - '))
+print('Sum is', x + y)
+print('Product is', x * y)
+print('Difference is', x - y)
+print('Quotient is', x // y)
